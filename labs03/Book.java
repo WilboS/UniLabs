@@ -27,5 +27,14 @@ public class Book {
         return ("'" + title + "' by " + author);
     }
 
+    public void rentBook () {
+    	System.out.println("Book rented"); //this is the method
+    }
+    public void returnBook () {
+    	System.out.println("Book returned"); //this is the method
+    }
+    
+	
+	
 }
 		 
