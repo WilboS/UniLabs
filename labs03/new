@@ -1,1 +1,13 @@
-
+public class Student {
+  public String name;
+  public String gender;
+  public String yearOfBirth;
+  
+ 
+  
+  
+  public void register () {
+    System.out.println("You have been registered"); //this is the method for outputting "you have been registered"
+    }
+    
+    
